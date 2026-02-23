@@ -1,0 +1,36 @@
+# fastapi==0.115.2
+# SQLAlchemy
+# uvicorn==0.30.0
+# pydantic==2.9.2
+# duckdb
+# duckdb-engine
+# pypdf
+# python-docx
+# langchain
+# tiktoken
+# langchain-huggingface 
+# sentence-transformers
+# langchain_text_splitters
+# pandas
+# pyarrow 
+
+fastapi
+uvicorn
+pydantic
+SQLAlchemy
+duckdb
+duckdb-engine
+pandas
+pyarrow
+pypdf
+python-docx
+langchain
+langchain-huggingface
+langchain-text-splitters
+tiktoken
+sentence-transformers
+bcrypt
+joserfc
+passlib
+dotenv
+celery
